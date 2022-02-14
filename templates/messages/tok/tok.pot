@@ -1,0 +1,1683 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the tok package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: tok\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2022-01-09 00:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <kde-i18n-doc@kde.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: data/components/CreateNewMenu.qml:13 data/components/CreateNewMenuInWindow.qml:13
+#, kde-format
+msgctxt "menu"
+msgid "Create New"
+msgstr ""
+
+#: data/components/CreateNewMenu.qml:39 data/components/CreateNewMenuInWindow.qml:39
+#, kde-format
+msgctxt "placeholder text"
+msgid "Name"
+msgstr ""
+
+#: data/components/CreateNewMenu.qml:62 data/components/CreateNewMenu.qml:113
+#: data/components/CreateNewMenuInWindow.qml:62
+#: data/components/CreateNewMenuInWindow.qml:113
+#: data/components/GlobalMenu.qml:79 data/components/GlobalMenuInWindow.qml:79
+#: data/Content.qml:343
+#, kde-format
+msgid "Cancel"
+msgstr ""
+
+#: data/components/CreateNewMenu.qml:66 data/components/CreateNewMenuInWindow.qml:66
+#, kde-format
+msgid "Create"
+msgstr ""
+
+#: data/components/CreateNewMenu.qml:90 data/components/CreateNewMenuInWindow.qml:90
+#: data/components/GlobalMenu.qml:53 data/components/GlobalMenuInWindow.qml:53
+#, kde-format
+msgctxt "title"
+msgid "Select someone to chat with"
+msgstr ""
+
+#: data/components/CreateNewMenu.qml:121 data/components/CreateNewMenuInWindow.qml:121
+#, kde-format
+msgctxt "menu"
+msgid "Secret Chat…"
+msgstr ""
+
+#: data/components/CreateNewMenu.qml:125 data/components/CreateNewMenuInWindow.qml:125
+#, kde-format
+msgctxt "menu"
+msgid "Private Group…"
+msgstr ""
+
+#: data/components/CreateNewMenu.qml:126 data/components/CreateNewMenuInWindow.qml:126
+#, kde-format
+msgctxt "dialog title"
+msgid "Create a private group"
+msgstr ""
+
+#: data/components/CreateNewMenu.qml:129 data/components/CreateNewMenuInWindow.qml:129
+#, kde-format
+msgctxt "menu"
+msgid "Public Group…"
+msgstr ""
+
+#: data/components/CreateNewMenu.qml:130 data/components/CreateNewMenuInWindow.qml:130
+#, kde-format
+msgctxt "dialog title"
+msgid "Create a public group"
+msgstr ""
+
+#: data/components/CreateNewMenu.qml:133 data/components/CreateNewMenuInWindow.qml:133
+#, kde-format
+msgctxt "menu"
+msgid "Channel…"
+msgstr ""
+
+#: data/components/CreateNewMenu.qml:134 data/components/CreateNewMenuInWindow.qml:134
+#, kde-format
+msgctxt "dialog title"
+msgid "Create a broadcast channel"
+msgstr ""
+
+#: data/components/EditMenu.qml:19 data/components/EditMenuInWindow.qml:19
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Undo"
+msgstr ""
+
+#: data/components/EditMenu.qml:29 data/components/EditMenuInWindow.qml:28
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Redo"
+msgstr ""
+
+#: data/components/EditMenu.qml:42 data/components/EditMenuInWindow.qml:40
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Cut"
+msgstr ""
+
+#: data/components/EditMenu.qml:52 data/components/EditMenuInWindow.qml:49
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Copy"
+msgstr ""
+
+#: data/components/EditMenu.qml:62 data/components/EditMenuInWindow.qml:58
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Paste"
+msgstr ""
+
+#: data/components/EditMenu.qml:72 data/components/EditMenuInWindow.qml:67
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Delete"
+msgstr ""
+
+#: data/components/EditMenu.qml:94 data/components/EditMenuInWindow.qml:88
+#, kde-format
+msgctxt "text editing menu action"
+msgid "Select All"
+msgstr ""
+
+#: data/components/EditMenu.qml:109 data/components/EditMenuInWindow.qml:111
+#, kde-format
+msgctxt "text editing submenu"
+msgid "Spellchecking"
+msgstr ""
+
+#: data/components/EditMenu.qml:125 data/components/EditMenuInWindow.qml:127
+#, kde-format
+msgid "No suggestions for \"%1\""
+msgstr ""
+
+#: data/components/EditMenu.qml:134 data/components/EditMenuInWindow.qml:136
+#, kde-format
+msgid "Add \"%1\" to dictionary"
+msgstr ""
+
+#: data/components/EditMenu.qml:140 data/components/EditMenuInWindow.qml:142
+#, kde-format
+msgid "Ignore \"%1\""
+msgstr ""
+
+#: data/components/FormatMenu.qml:16 data/components/FormatMenuInWindow.qml:16
+#, kde-format
+msgctxt "text menu editing action"
+msgid "Format"
+msgstr ""
+
+#: data/components/FormatMenu.qml:21 data/components/FormatMenuInWindow.qml:21
+#, kde-format
+msgctxt "text editing menu action; applies format"
+msgid "Bold"
+msgstr ""
+
+#: data/components/FormatMenu.qml:28 data/components/FormatMenuInWindow.qml:27
+#, kde-format
+msgctxt "text editing menu action; applies format"
+msgid "Italic"
+msgstr ""
+
+#: data/components/FormatMenu.qml:35 data/components/FormatMenuInWindow.qml:33
+#, kde-format
+msgctxt "text editing menu action; applies format"
+msgid "Underline"
+msgstr ""
+
+#: data/components/FormatMenu.qml:42 data/components/FormatMenuInWindow.qml:39
+#, kde-format
+msgctxt "text editing menu action; applies format"
+msgid "Strikethrough"
+msgstr ""
+
+#: data/components/FormatMenu.qml:49 data/components/FormatMenuInWindow.qml:45
+#, kde-format
+msgctxt "text editing menu action; applies format"
+msgid "Monospace"
+msgstr ""
+
+#: data/components/FormatMenu.qml:59 data/components/FormatMenuInWindow.qml:54
+#, kde-format
+msgctxt "text editing menu action; applies format"
+msgid "Normal"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:14 data/components/GlobalMenuInWindow.qml:14
+#, kde-format
+msgctxt "menu"
+msgid "Tok"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:17 data/components/GlobalMenuInWindow.qml:17
+#, kde-format
+msgctxt "menu"
+msgid "Preferences…"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
+#: data/Content.qml:134
+#, kde-format
+msgctxt "menu"
+msgid "Enable Notifications"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:21 data/components/GlobalMenuInWindow.qml:21
+#: data/Content.qml:134
+#, kde-format
+msgctxt "menu"
+msgid "Disable Notifications"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:26 data/components/GlobalMenuInWindow.qml:26
+#, kde-format
+msgctxt "menu"
+msgid "Log Out"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:30 data/components/GlobalMenuInWindow.qml:30
+#: data/Content.qml:138
+#, kde-format
+msgctxt "menu"
+msgid "Quit"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:35 data/components/GlobalMenuInWindow.qml:35
+#, kde-format
+msgctxt "menu"
+msgid "Chats"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:87 data/components/GlobalMenuInWindow.qml:87
+#, kde-format
+msgctxt "menu"
+msgid "Chat With…"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:92 data/components/GlobalMenuInWindow.qml:92
+#, kde-format
+msgctxt "menu"
+msgid "Edit"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:97 data/components/GlobalMenuInWindow.qml:97
+#, kde-format
+msgctxt "menu"
+msgid "View"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:100 data/components/GlobalMenuInWindow.qml:100
+#, kde-format
+msgctxt "menu"
+msgid "Disable Compact Mode"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:100 data/components/GlobalMenuInWindow.qml:100
+#, kde-format
+msgctxt "menu"
+msgid "Enable Compact Mode"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:104 data/components/GlobalMenuInWindow.qml:104
+#, kde-format
+msgctxt "menu"
+msgid "Don't Use Image As Background"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:104 data/components/GlobalMenuInWindow.qml:104
+#, kde-format
+msgctxt "menu"
+msgid "Use Image As Background"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:108 data/components/GlobalMenuInWindow.qml:108
+#, kde-format
+msgctxt "menu"
+msgid "Disable Transparency"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:108 data/components/GlobalMenuInWindow.qml:108
+#, kde-format
+msgctxt "menu"
+msgid "Enable Transparency"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:112 data/components/GlobalMenuInWindow.qml:112
+#, kde-format
+msgctxt ""
+"menu item that opens a UI element called the 'Quick Switcher', which offers "
+"a fast keyboard-based interface for switching in between chats."
+msgid "Open Quick Switcher"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:118 data/components/GlobalMenuInWindow.qml:118
+#, kde-format
+msgctxt ""
+"menu item offering access to more menu items to pick the colour scheme"
+msgid "Set Color Scheme"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:142 data/components/GlobalMenuInWindow.qml:142
+#, kde-format
+msgctxt "menu"
+msgid "Format"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:146 data/components/GlobalMenuInWindow.qml:146
+#, kde-format
+msgctxt "menu"
+msgid "Window"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:149 data/components/GlobalMenuInWindow.qml:149
+#, kde-format
+msgctxt "menu"
+msgid "Hide Sidebar"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:149 data/components/GlobalMenuInWindow.qml:149
+#, kde-format
+msgctxt "menu"
+msgid "Show Sidebar"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:153 data/components/GlobalMenuInWindow.qml:153
+#, kde-format
+msgctxt "menu"
+msgid "Exit Full Screen"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:153 data/components/GlobalMenuInWindow.qml:153
+#, kde-format
+msgctxt "menu"
+msgid "Enter Full Screen"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:159 data/components/GlobalMenuInWindow.qml:159
+#, kde-format
+msgctxt "menu"
+msgid "Help"
+msgstr ""
+
+#: data/components/GlobalMenu.qml:162 data/components/GlobalMenuInWindow.qml:162
+#, kde-format
+msgctxt "menu"
+msgid "Telegram FAQ"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:23
+#, kde-format
+msgid "You"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:30
+#, kde-format
+msgid "GIF"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:32
+#: data/routes/messages/components/GroupInformation.qml:130
+#: data/routes/messages/components/MusicView.qml:14
+#: data/routes/messages/components/SearchMessages.qml:100
+#, kde-format
+msgid "Music"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:34
+#, kde-format
+msgctxt ""
+"Specifically a file; I use Attachment in English because it sounds better "
+"than File in this context."
+msgid "Attachment"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:36
+#, kde-format
+msgid "Photo"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:38
+#, kde-format
+msgid "Expired Photo"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:40
+#, kde-format
+msgid "Sticker"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:42
+#, kde-format
+msgid "Video"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:44
+#, kde-format
+msgid "Expired Video"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:46
+#, kde-format
+msgid "Video Note"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:48
+#, kde-format
+msgid "Voice Note"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:50
+#, kde-format
+msgid "Location"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:52
+#, kde-format
+msgid "Venue"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:54
+#, kde-format
+msgid "Contact"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:56
+#, kde-format
+msgid "Dice"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:58
+#, kde-format
+msgid "Game"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:60
+#, kde-format
+msgid "Poll"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:62
+#, kde-format
+msgid "Invoice"
+msgstr ""
+
+#: data/components/PlaintextMessage.qml:89
+#, kde-format
+msgid "Unsupported"
+msgstr ""
+
+#: data/components/SearchField.qml:8
+#, kde-format
+msgctxt "placeholder text for a search field"
+msgid "Search…"
+msgstr ""
+
+#: data/components/upload/desktop/UploadDialog.qml:17
+#, kde-format
+msgctxt "dialog title"
+msgid "Upload"
+msgstr ""
+
+#: data/components/upload/desktop/UploadDialog.qml:35
+#, kde-format
+msgctxt "Dialog title"
+msgid "Upload"
+msgstr ""
+
+#: data/components/upload/desktop/UploadDialog.qml:50
+#: data/routes/settings/ProxySettings.qml:123
+#, kde-format
+msgctxt "button"
+msgid "Cancel"
+msgstr ""
+
+#: data/components/upload/desktop/UploadDialog.qml:62
+#: data/components/upload/mobile/UploadDialog.qml:310
+#, kde-format
+msgctxt "button"
+msgid "Send"
+msgstr ""
+
+#: data/components/upload/desktop/UploadDialog.qml:104
+#, kde-format
+msgid "Compress image"
+msgstr ""
+
+#: data/components/upload/mobile/UploadDialog.qml:79
+#, kde-format
+msgctxt "page title"
+msgid "Upload…"
+msgstr ""
+
+#: data/components/upload/mobile/UploadDialog.qml:364
+#, kde-format
+msgctxt "page title in switcher; keep small as possible"
+msgid "Photos"
+msgstr ""
+
+#: data/components/upload/mobile/UploadDialog.qml:369
+#, kde-format
+msgctxt "page title in switcher; keep small as possible"
+msgid "Videos"
+msgstr ""
+
+#: data/components/upload/mobile/UploadDialog.qml:374
+#, kde-format
+msgctxt "page title in switcher; keep small as possible"
+msgid "Music"
+msgstr ""
+
+#: data/components/upload/mobile/UploadDialog.qml:379
+#, kde-format
+msgctxt "page title in switcher; keep small as possible"
+msgid "Files"
+msgstr ""
+
+#: data/components/upload/RichTextArea.qml:32
+#, kde-format
+msgid "Add a caption…"
+msgstr ""
+
+#: data/components/UserDataSheet.qml:88
+#, kde-format
+msgid "Ban from \"%1\""
+msgstr ""
+
+#: data/components/UserDataSheet.qml:101
+#, kde-format
+msgid "Kick from \"%1\""
+msgstr ""
+
+#: data/Content.qml:312
+#, kde-format
+msgid "Do you want to delete this message?"
+msgstr ""
+
+#: data/Content.qml:319
+#, kde-format
+msgid "This will delete it just for you."
+msgstr ""
+
+#: data/Content.qml:323
+#, kde-format
+msgid "This will delete it for everyone in this chat."
+msgstr ""
+
+#: data/Content.qml:329
+#, kde-format
+msgid "Also delete for everyone"
+msgstr ""
+
+#: data/Content.qml:329
+#, kde-format
+msgid "Also delete for %1"
+msgstr ""
+
+#: data/Content.qml:347
+#, kde-format
+msgid "Delete"
+msgstr ""
+
+#: data/Content.qml:398
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting…"
+msgstr ""
+
+#: data/Content.qml:400
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Connecting to proxy…"
+msgstr ""
+
+#: data/Content.qml:402
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Waiting on network…"
+msgstr ""
+
+#: data/Content.qml:404
+#, kde-format
+msgctxt ""
+"small bubble in bottom left of window indicating current connection status"
+msgid "Updating…"
+msgstr ""
+
+#: data/main.qml:23 data/maui_main.qml:18
+#, kde-format
+msgctxt "window title"
+msgid "Tok"
+msgstr ""
+
+#: data/routes/Chats.qml:44
+#, kde-format
+msgid "Search chats"
+msgstr ""
+
+#: data/routes/Chats.qml:197
+#, kde-format
+msgctxt "button with menu"
+msgid "Create New..."
+msgstr ""
+
+#: data/routes/Chats.qml:246
+#, kde-format
+msgid "1 unread message."
+msgid_plural "%1 unread messages."
+msgstr[0] ""
+msgstr[1] ""
+
+#: data/routes/Chats.qml:249
+#, kde-format
+msgctxt ""
+"%1 is the message author (probably, but not necessarily a human), and %2 is "
+"the message contents"
+msgid "Latest message from %1: %2"
+msgstr ""
+
+#: data/routes/Chats.qml:251
+#, kde-format
+msgctxt "%1 is the message contents"
+msgid "Latest message: %1"
+msgstr ""
+
+#: data/routes/Chats.qml:400
+#, kde-format
+msgid "No chats available."
+msgstr ""
+
+#: data/routes/entry/AuthenticationCode.qml:19
+#, kde-format
+msgid "Phone verification"
+msgstr ""
+
+#: data/routes/entry/AuthenticationCode.qml:35
+#, kde-format
+msgid "We've sent a code to the Telegram app on your other device."
+msgstr ""
+
+#: data/routes/entry/AuthenticationCode.qml:47
+#, kde-format
+msgid "Code"
+msgstr ""
+
+#: data/routes/entry/AuthenticationCode.qml:57
+#: data/routes/entry/AuthenticationCode.qml:58
+#: data/routes/entry/Password.qml:56 data/routes/entry/Password.qml:57
+#: data/routes/entry/PhoneNumber.qml:76 data/routes/entry/PhoneNumber.qml:77
+#, kde-format
+msgid "Continue"
+msgstr ""
+
+#: data/routes/entry/Password.qml:19
+#, kde-format
+msgid "Password"
+msgstr ""
+
+#: data/routes/entry/Password.qml:35
+#, kde-format
+msgid ""
+"You have enabled Two-Step Verification, so your account is protected with an "
+"additional password."
+msgstr ""
+
+#: data/routes/entry/PhoneNumber.qml:19
+#, kde-format
+msgid "Welcome"
+msgstr ""
+
+#: data/routes/entry/PhoneNumber.qml:67
+#, kde-format
+msgid "Phone number"
+msgstr ""
+
+#: data/routes/entry/PhoneNumber.qml:86 data/routes/entry/Welcome.qml:27
+#, kde-format
+msgid "Configure Proxy…"
+msgstr ""
+
+#: data/routes/entry/Welcome.qml:17
+#, kde-format
+msgid "Welcome to Tok"
+msgstr ""
+
+#: data/routes/entry/Welcome.qml:21
+#, kde-format
+msgid "Get Started"
+msgstr ""
+
+#: data/routes/messages/components/CompositionBar.qml:90
+#, kde-format
+msgid "Edit Message"
+msgstr ""
+
+#: data/routes/messages/components/CompositionBar.qml:157
+#, kde-format
+msgid "Attach file"
+msgstr ""
+
+#: data/routes/messages/components/CompositionBar.qml:251
+#, kde-format
+msgid "Write your message…"
+msgstr ""
+
+#: data/routes/messages/components/CompositionBar.qml:251
+#, kde-format
+msgid "You cannot send messages."
+msgstr ""
+
+#: data/routes/messages/components/CompositionBar.qml:365
+#, kde-format
+msgid "Send message"
+msgstr ""
+
+#: data/routes/messages/components/GroupInformation.qml:64
+#, kde-format
+msgid "Group Info"
+msgstr ""
+
+#: data/routes/messages/components/GroupInformation.qml:64
+#, kde-format
+msgid "Info"
+msgstr ""
+
+#: data/routes/messages/components/GroupInformation.qml:108
+#: data/routes/messages/components/PhotosView.qml:14
+#: data/routes/messages/components/SearchMessages.qml:98
+#, kde-format
+msgid "Photos"
+msgstr ""
+
+#: data/routes/messages/components/GroupInformation.qml:119
+#: data/routes/messages/components/SearchMessages.qml:99
+#: data/routes/messages/components/VideosView.qml:14
+#, kde-format
+msgid "Videos"
+msgstr ""
+
+#: data/routes/messages/components/MessageDelegate.qml:76
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Edit"
+msgstr ""
+
+#: data/routes/messages/components/MessageDelegate.qml:85
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Reply"
+msgstr ""
+
+#: data/routes/messages/components/MessageDelegate.qml:93
+#, kde-format
+msgctxt "popup menu for message"
+msgid "Delete"
+msgstr ""
+
+#: data/routes/messages/components/normal/FileMessage.qml:41
+#: data/routes/messages/components/thin/FileMessage.qml:29
+#, kde-format
+msgctxt ""
+"tooltip for a button on a message; offers ability to open its downloaded "
+"file with an appropriate application"
+msgid "Open File"
+msgstr ""
+
+#: data/routes/messages/components/normal/FileMessage.qml:51
+#: data/routes/messages/components/thin/FileMessage.qml:39
+#, kde-format
+msgctxt "file download progress"
+msgid "%1 / %2"
+msgstr ""
+
+#: data/routes/messages/components/normal/FileMessage.qml:57
+#: data/routes/messages/components/thin/FileMessage.qml:45
+#, kde-format
+msgctxt ""
+"tooltip for a button on a message; offers ability to open its downloaded "
+"file with an appropriate application"
+msgid "Stop Download"
+msgstr ""
+
+#: data/routes/messages/components/normal/FileMessage.qml:151
+#, kde-format
+msgctxt "explanatory popup notification"
+msgid ""
+"You can drag and drop the icon on downloaded files into other applications."
+msgstr ""
+
+#: data/routes/messages/components/normal/FileMessage.qml:245
+#, kde-format
+msgctxt ""
+"tooltip for a button on a message; offers ability to download its file"
+msgid "Download"
+msgstr ""
+
+#: data/routes/messages/components/normal/GifMessage.qml:68
+#: data/routes/messages/components/thin/GifMessage.qml:44
+#, kde-format
+msgid "GIF message."
+msgstr ""
+
+#: data/routes/messages/components/normal/PhotoMessage.qml:76
+#: data/routes/messages/components/normal/VideoMessage.qml:54
+#: data/routes/messages/components/shared/Sticker.qml:19
+#: data/routes/messages/components/thin/PhotoMessage.qml:45
+#: data/routes/messages/components/thin/VideoMessage.qml:26
+#, kde-format
+msgid "Photo message."
+msgstr ""
+
+#: data/routes/messages/components/normal/UserAddMessage.qml:22
+#: data/routes/messages/components/thin/UserAddMessage.qml:19
+#, kde-format
+msgid "%1 joined the group"
+msgstr ""
+
+#: data/routes/messages/components/normal/VideoMessage.qml:150
+#, kde-format
+msgctxt "file download progress"
+msgid "%1 of %2 downloaded"
+msgstr ""
+
+#: data/routes/messages/components/normal/VoiceChatFinished.qml:18
+#: data/routes/messages/components/thin/VoiceChatFinished.qml:16
+#, kde-format
+msgid "%1 ended a voice chat"
+msgstr ""
+
+#: data/routes/messages/components/normal/VoiceChatStarted.qml:18
+#: data/routes/messages/components/thin/VoiceChatStarted.qml:16
+#, kde-format
+msgid "%1 started a voice chat"
+msgstr ""
+
+#: data/routes/messages/components/PinnedMessages.qml:18
+#: data/routes/messages/components/PinnedMessages.qml:70
+#, kde-format
+msgctxt "dialog title"
+msgid "Pinned Messages in %1"
+msgstr ""
+
+#: data/routes/messages/components/PinnedMessages.qml:102
+#: data/routes/messages/components/SearchMessages.qml:135
+#, kde-format
+msgid "View In Chat"
+msgstr ""
+
+#: data/routes/messages/components/SearchMessages.qml:18
+#, kde-format
+msgctxt "dialog title"
+msgid "Search Messages in %1"
+msgstr ""
+
+#: data/routes/messages/components/SearchMessages.qml:97
+#, kde-format
+msgid "All Messages"
+msgstr ""
+
+#: data/routes/messages/components/SearchMessages.qml:101
+#, kde-format
+msgid "Files"
+msgstr ""
+
+#: data/routes/messages/components/shared/WebPageBlock.qml:92
+#, kde-format
+msgctxt ""
+"button that opens a preview of a web page. 'instant view' is sort of like a "
+"brand name, but also sort of not? i would recommend consulting translations."
+"telegram.org to see how instant view was translated officially."
+msgid "Instant View"
+msgstr ""
+
+#: data/routes/messages/components/thin/FileMessage.qml:126
+#, kde-format
+msgctxt "a button"
+msgid "Download"
+msgstr ""
+
+#: data/routes/messages/NoView.qml:26
+#, kde-format
+msgid "Select a chat to start messaging"
+msgstr ""
+
+#: data/routes/messages/View.qml:162
+#, kde-format
+msgid "Pinned Messages"
+msgstr ""
+
+#: data/routes/messages/View.qml:177
+#, kde-format
+msgid "Search"
+msgstr ""
+
+#: data/routes/settings/AccountSettings.qml:22
+#, kde-format
+msgid "Log out"
+msgstr ""
+
+#: data/routes/settings/AppearanceSettings.qml:22
+#, kde-format
+msgctxt ""
+"Checkable control to toggle between the default appearance and a more "
+"compact style"
+msgid "Use a compact appearance for messages"
+msgstr ""
+
+#: data/routes/settings/AppearanceSettings.qml:27
+#, kde-format
+msgctxt ""
+"Checkable control to toggle between a photo background for the chat and "
+"using a solid colour"
+msgid "Display an image in the background of chats"
+msgstr ""
+
+#: data/routes/settings/AppearanceSettings.qml:34
+#, kde-format
+msgctxt ""
+"Checkable control to toggle viewing content underneath the window "
+"(transparent window bg)"
+msgid "Make the window transparent"
+msgstr ""
+
+#: data/routes/settings/AppearanceSettings.qml:40
+#, kde-format
+msgctxt "Button that offers a menu to change the colour scheme"
+msgid "Change Color Scheme"
+msgstr ""
+
+#: data/routes/settings/BehaviourSettings.qml:22
+#, kde-format
+msgctxt ""
+"Checkable control to toggle a system tray icon and not closing the app when "
+"X is pressed, instead using the tray icon"
+msgid "Minimize to system tray when I close the app"
+msgstr ""
+
+#: data/routes/settings/mobile/AppearanceSettings.qml:24
+#, kde-format
+msgctxt "title"
+msgid "Appearance"
+msgstr ""
+
+#: data/routes/settings/mobile/AppearanceSettings.qml:44
+#, kde-format
+msgctxt ""
+"Checkable control to toggle between the default appearance and a more "
+"compact style. Keep the text no longer than a few letters longer than the "
+"source string due to screen size constraints. Reword heavily if needed."
+msgid "Compact appearance for messages"
+msgstr ""
+
+#: data/routes/settings/mobile/AppearanceSettings.qml:53
+#, kde-format
+msgctxt ""
+"Checkable control to toggle between a photo background for the chat and "
+"using a solid colour. Keep the text no longer than a few letters longer than "
+"the source string due to screen size constraints. Reword heavily if needed."
+msgid "Show image behind chats"
+msgstr ""
+
+#: data/routes/settings/mobile/AppearanceSettings.qml:62
+#, kde-format
+msgctxt "List item that opens a page to change the colour scheme"
+msgid "Change color scheme"
+msgstr ""
+
+#: data/routes/settings/mobile/ColorSchemes.qml:24
+#, kde-format
+msgctxt "title"
+msgid "Pick a color scheme…"
+msgstr ""
+
+#: data/routes/settings/mobile/NewProxy.qml:26
+#, kde-format
+msgctxt "title"
+msgid "New Proxy"
+msgstr ""
+
+#: data/routes/settings/mobile/NewProxy.qml:37
+#: data/routes/settings/ProxySettings.qml:127
+#, kde-format
+msgctxt "button"
+msgid "Add Proxy"
+msgstr ""
+
+#: data/routes/settings/mobile/ProxySettings.qml:24
+#, kde-format
+msgctxt "title"
+msgid "Proxy Settings"
+msgstr ""
+
+#: data/routes/settings/mobile/ProxySettings.qml:45
+#, kde-format
+msgctxt "header"
+msgid "Current Proxies"
+msgstr ""
+
+#: data/routes/settings/mobile/ProxySettings.qml:52
+#, kde-format
+msgctxt "mobile message, keep it as thin as possible"
+msgid "You have no proxies added."
+msgstr ""
+
+#: data/routes/settings/mobile/ProxySettings.qml:61
+#: data/routes/settings/ProxySettings.qml:40
+#, kde-format
+msgid "HTTP"
+msgstr ""
+
+#: data/routes/settings/mobile/ProxySettings.qml:62
+#: data/routes/settings/ProxySettings.qml:41
+#, kde-format
+msgid "MTProto"
+msgstr ""
+
+#: data/routes/settings/mobile/ProxySettings.qml:63
+#: data/routes/settings/ProxySettings.qml:42
+#, kde-format
+msgid "SOCKS5"
+msgstr ""
+
+#: data/routes/settings/mobile/ProxySettings.qml:66
+#: data/routes/settings/ProxySettings.qml:45
+#, kde-format
+msgid "Active %1 Proxy"
+msgstr ""
+
+#: data/routes/settings/mobile/ProxySettings.qml:66
+#: data/routes/settings/ProxySettings.qml:45
+#, kde-format
+msgid "%1 Proxy"
+msgstr ""
+
+#: data/routes/settings/mobile/ProxySettings.qml:71
+#: data/routes/settings/ProxySettings.qml:50
+#, kde-format
+msgctxt "button"
+msgid "Disable"
+msgstr ""
+
+#: data/routes/settings/mobile/ProxySettings.qml:71
+#: data/routes/settings/ProxySettings.qml:50
+#, kde-format
+msgctxt "button"
+msgid "Enable"
+msgstr ""
+
+#: data/routes/settings/mobile/ProxySettings.qml:85
+#, kde-format
+msgid "New Proxy"
+msgstr ""
+
+#: data/routes/settings/mobile/Settings.qml:24
+#, kde-format
+msgctxt "title"
+msgid "Preferences"
+msgstr ""
+
+#: data/routes/settings/mobile/Settings.qml:44
+#: data/routes/settings/Settings.qml:52
+#, kde-format
+msgid "Appearance"
+msgstr ""
+
+#: data/routes/settings/mobile/Settings.qml:51
+#: data/routes/settings/Settings.qml:70
+#, kde-format
+msgid "Spellchecking"
+msgstr ""
+
+#: data/routes/settings/mobile/Settings.qml:58
+#: data/routes/settings/Settings.qml:64
+#, kde-format
+msgid "Proxy"
+msgstr ""
+
+#: data/routes/settings/mobile/Settings.qml:67
+#, kde-format
+msgid "Log Out"
+msgstr ""
+
+#: data/routes/settings/mobile/SpellcheckDefault.qml:29
+#, kde-format
+msgctxt "title"
+msgid "Pick a default spellchecking language…"
+msgstr ""
+
+#: data/routes/settings/mobile/SpellcheckDictionary.qml:29
+#, kde-format
+msgctxt "title"
+msgid "Spellchecking Dictionary"
+msgstr ""
+
+#: data/routes/settings/mobile/SpellcheckLanguageList.qml:29
+#, kde-format
+msgctxt "title"
+msgid "Spellchecking Languages"
+msgstr ""
+
+#: data/routes/settings/mobile/SpellcheckLanguageList.qml:63
+#: data/routes/settings/SpellcheckSettings.qml:111
+#, kde-format
+msgid "Default language"
+msgstr ""
+
+#: data/routes/settings/mobile/SpellcheckSettings.qml:27
+#, kde-format
+msgctxt "title"
+msgid "Spellchecking Settings"
+msgstr ""
+
+#: data/routes/settings/mobile/SpellcheckSettings.qml:52
+#, kde-format
+msgctxt ""
+"Mobile label; keep the text no longer than a few letters longer than the "
+"source string due to screen size constraints. Reword heavily if needed."
+msgid "Spellchecking enabled"
+msgstr ""
+
+#: data/routes/settings/mobile/SpellcheckSettings.qml:61
+#, kde-format
+msgctxt ""
+"Mobile label; keep the text no longer than a few letters longer than the "
+"source string due to screen size constraints. Reword heavily if needed."
+msgid "Ignore capitalised words"
+msgstr ""
+
+#: data/routes/settings/mobile/SpellcheckSettings.qml:70
+#, kde-format
+msgctxt ""
+"Mobile label; keep the text no longer than a few letters longer than the "
+"source string due to screen size constraints. Reword heavily if needed."
+msgid "Ignore hyphenated words"
+msgstr ""
+
+#: data/routes/settings/mobile/SpellcheckSettings.qml:79
+#, kde-format
+msgid "Set default language for spellchecking"
+msgstr ""
+
+#: data/routes/settings/mobile/SpellcheckSettings.qml:80
+#, kde-format
+msgctxt "currently <which language is default>"
+msgid "Currently %1"
+msgstr ""
+
+#: data/routes/settings/mobile/SpellcheckSettings.qml:97
+#, kde-format
+msgid "Detect language from list automatically"
+msgstr ""
+
+#: data/routes/settings/mobile/SpellcheckSettings.qml:106
+#, kde-format
+msgid "Language list"
+msgstr ""
+
+#: data/routes/settings/mobile/SpellcheckSettings.qml:107
+#, kde-format
+msgid "Select languages for automatic detection"
+msgstr ""
+
+#: data/routes/settings/mobile/SpellcheckSettings.qml:124
+#, kde-format
+msgid "Spellcheck dictionary"
+msgstr ""
+
+#: data/routes/settings/mobile/SpellcheckSettings.qml:125
+#, kde-format
+msgid "Add and remove words from your dictionary"
+msgstr ""
+
+#: data/routes/settings/ProxyForm.qml:55
+#, kde-format
+msgctxt "form subheader"
+msgid "General Configuration"
+msgstr ""
+
+#: data/routes/settings/ProxyForm.qml:61
+#, kde-format
+msgctxt "form label"
+msgid "Server:"
+msgstr ""
+
+#: data/routes/settings/ProxyForm.qml:66
+#, kde-format
+msgctxt "form label"
+msgid "Port:"
+msgstr ""
+
+#: data/routes/settings/ProxyForm.qml:72
+#, kde-format
+msgctxt "checkbox label"
+msgid "Make this proxy the active one when added"
+msgstr ""
+
+#: data/routes/settings/ProxyForm.qml:80
+#, kde-format
+msgctxt "form label"
+msgid "Proxy Type:"
+msgstr ""
+
+#: data/routes/settings/ProxyForm.qml:85
+#, kde-format
+msgctxt "form subheader"
+msgid "HTTP Configuration"
+msgstr ""
+
+#: data/routes/settings/ProxyForm.qml:86
+#, kde-format
+msgctxt "form subheader"
+msgid "MTProto Configuration"
+msgstr ""
+
+#: data/routes/settings/ProxyForm.qml:87
+#, kde-format
+msgctxt "form subheader"
+msgid "SOCKS5 Configuration"
+msgstr ""
+
+#: data/routes/settings/ProxyForm.qml:97
+#, kde-format
+msgctxt "form control label"
+msgid "MTProto Secret"
+msgstr ""
+
+#: data/routes/settings/ProxyForm.qml:103
+#: data/routes/settings/ProxyForm.qml:129
+#, kde-format
+msgctxt "form control label"
+msgid "Username:"
+msgstr ""
+
+#: data/routes/settings/ProxyForm.qml:109
+#: data/routes/settings/ProxyForm.qml:135
+#, kde-format
+msgctxt "form control label"
+msgid "Password:"
+msgstr ""
+
+#: data/routes/settings/ProxyForm.qml:114
+#, kde-format
+msgctxt "form control label"
+msgid "This proxy only supports plain HTTP requests"
+msgstr ""
+
+#: data/routes/settings/ProxyForm.qml:118
+#, kde-format
+msgctxt "additional explanatory text below checkbox"
+msgid "Ask your proxy provider if you're unsure about this option"
+msgstr ""
+
+#: data/routes/settings/ProxySettings.qml:24
+#, kde-format
+msgctxt "placeholder message"
+msgid ""
+"You have no proxies added. Use the Add Proxy button at the bottom of the "
+"window to add one."
+msgstr ""
+
+#: data/routes/settings/ProxySettings.qml:83
+#, kde-format
+msgctxt "adds a proxy"
+msgid "Add Proxy"
+msgstr ""
+
+#: data/routes/settings/ProxySettings.qml:92
+#, kde-format
+msgctxt "window title"
+msgid "Add Proxy"
+msgstr ""
+
+#: data/routes/settings/Settings.qml:16
+#, kde-format
+msgctxt "window title"
+msgid "Preferences"
+msgstr ""
+
+#: data/routes/settings/Settings.qml:46
+#, kde-format
+msgid "Account"
+msgstr ""
+
+#: data/routes/settings/Settings.qml:47
+#, kde-format
+msgctxt "sidebar item accessible text"
+msgid "Open account settings"
+msgstr ""
+
+#: data/routes/settings/Settings.qml:53
+#, kde-format
+msgctxt "sidebar item accessible text"
+msgid "Open appearance settings"
+msgstr ""
+
+#: data/routes/settings/Settings.qml:58
+#, kde-format
+msgid "Behaviour"
+msgstr ""
+
+#: data/routes/settings/Settings.qml:59
+#, kde-format
+msgctxt "sidebar item accessible text"
+msgid "Open app behaviour settings"
+msgstr ""
+
+#: data/routes/settings/Settings.qml:65
+#, kde-format
+msgctxt "sidebar item accessible text"
+msgid "Open proxy settings"
+msgstr ""
+
+#: data/routes/settings/Settings.qml:71
+#, kde-format
+msgctxt "sidebar item accessible text"
+msgid "Open spellchecking settings"
+msgstr ""
+
+#: data/routes/settings/Settings.qml:76
+#, kde-format
+msgid "Spellchecking Dictionary"
+msgstr ""
+
+#: data/routes/settings/Settings.qml:77
+#, kde-format
+msgctxt "sidebar item accessible text"
+msgid "Open spellchecking dictionary"
+msgstr ""
+
+#: data/routes/settings/SpellcheckDictionary.qml:33
+#, kde-format
+msgid "Dictionary for spellchecking"
+msgstr ""
+
+#: data/routes/settings/SpellcheckSettings.qml:31
+#, kde-format
+msgid "Enable automatic spellchecking"
+msgstr ""
+
+#: data/routes/settings/SpellcheckSettings.qml:36
+#, kde-format
+msgid "Ignore capitalised words"
+msgstr ""
+
+#: data/routes/settings/SpellcheckSettings.qml:41
+#, kde-format
+msgid "Ignore hyphenated words"
+msgstr ""
+
+#: data/routes/settings/SpellcheckSettings.qml:47
+#, kde-format
+msgid "Default language for spellchecking:"
+msgstr ""
+
+#: data/routes/settings/SpellcheckSettings.qml:61
+#, kde-format
+msgid "Languages for spellchecking"
+msgstr ""
+
+#: data/routes/settings/SpellcheckSettings.qml:64
+#, kde-format
+msgid "Detect language to spellcheck automatically from below list"
+msgstr ""
+
+#: src/chatlistmodel.cpp:22
+#, kde-format
+msgid "All Chats"
+msgstr ""
+
+#: src/chatsstore.cpp:145
+#, kde-format
+msgctxt "title for a chat consisting of saved messages"
+msgid "Saved Messages"
+msgstr ""
+
+#: src/chatsstore.cpp:213 src/chatsstore.cpp:216
+#, kde-format
+msgid "Group"
+msgstr ""
+
+#: src/chatsstore.cpp:214
+#, kde-format
+msgid "Private chat"
+msgstr ""
+
+#: src/chatsstore.cpp:215
+#, kde-format
+msgid "Secret chat"
+msgstr ""
+
+#: src/chatstore+actions.cpp:80
+#, kde-format
+msgid "%1 is typing"
+msgid_plural "%1 are typing"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/chatstore+actions.cpp:87
+#, kde-format
+msgid "%1 is uploading a file"
+msgid_plural "%1 are uploading files"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/chatstore+actions.cpp:94
+#, kde-format
+msgid "%1 is uploading a photo"
+msgid_plural "%1 are uploading photos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/chatstore+actions.cpp:101
+#, kde-format
+msgid "%1 is uploading a video"
+msgid_plural "%1 are uploading videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/chatstore+actions.cpp:108
+#, kde-format
+msgid "%1 is uploading a video note"
+msgid_plural "%1 are uploading video notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/chatstore+actions.cpp:115
+#, kde-format
+msgid "%1 is uploading a voice note"
+msgid_plural "%1 are uploading voice notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/chatstore+actions.cpp:122
+#, kde-format
+msgid "%1 is recording a video"
+msgid_plural "%1 are recording videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/chatstore+actions.cpp:129
+#, kde-format
+msgid "%1 is recording a video note"
+msgid_plural "%1 are recording video notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/chatstore+actions.cpp:136
+#, kde-format
+msgid "%1 is recording a voice note"
+msgid_plural "%1 are recording voice notes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/extractinator.cpp:17
+#, kde-format
+msgctxt "we know that this person is a human, but we don't know their name"
+msgid "Unknown Sender"
+msgstr ""
+
+#: src/extractinator.cpp:23
+#, kde-format
+msgctxt "we don't know what kind of user sent this message"
+msgid "Unsupported"
+msgstr ""
+
+#: src/extractinator.cpp:43
+#, kde-format
+msgctxt "notification body for receiving a gif with a caption"
+msgid "GIF: %1"
+msgstr ""
+
+#: src/extractinator.cpp:45
+#, kde-format
+msgctxt "notification body for receiving a gif"
+msgid "GIF"
+msgstr ""
+
+#: src/extractinator.cpp:51
+#, kde-format
+msgctxt "notification body for receiving a music with a caption"
+msgid "Music (%1): %2"
+msgstr ""
+
+#: src/extractinator.cpp:53
+#, kde-format
+msgctxt "notification body for receiving music"
+msgid "Music (%1)"
+msgstr ""
+
+#: src/extractinator.cpp:59
+#, kde-format
+msgctxt "notification body for receiving a file with a caption"
+msgid "File (%1): %2"
+msgstr ""
+
+#: src/extractinator.cpp:61
+#, kde-format
+msgctxt "notification body for receiving file"
+msgid "File (%1)"
+msgstr ""
+
+#: src/extractinator.cpp:66
+#, kde-format
+msgctxt "notification body for receiving a photo with a caption"
+msgid "Photo: %1"
+msgstr ""
+
+#: src/extractinator.cpp:68
+#, kde-format
+msgctxt "notification body for receiving a photo"
+msgid "Photo"
+msgstr ""
+
+#: src/extractinator.cpp:74
+#, kde-format
+msgctxt ""
+"notification body for receiving an expired photo (one that self-destructed)"
+msgid "Expired Photo"
+msgstr ""
+
+#: src/extractinator.cpp:77
+#, kde-format
+msgctxt "notification body for receiving a sticker"
+msgid "Sticker %1"
+msgstr ""
+
+#: src/extractinator.cpp:81
+#, kde-format
+msgctxt "notification body for receiving a video with a caption"
+msgid "Video: %1"
+msgstr ""
+
+#: src/extractinator.cpp:83
+#, kde-format
+msgctxt "notification body for receiving a video"
+msgid "Video"
+msgstr ""
+
+#: src/extractinator.cpp:89
+#, kde-format
+msgctxt ""
+"notification body for receiving an expired video (one that self-destructed)"
+msgid "Expired Video"
+msgstr ""
+
+#: src/extractinator.cpp:94
+#, kde-format
+msgctxt "notification body for receiving a video note"
+msgid "Video"
+msgstr ""
+
+#: src/extractinator.cpp:99
+#, kde-format
+msgctxt "notification body for receiving a voice note"
+msgid "Video"
+msgstr ""
+
+#: src/extractinator.cpp:104
+#, kde-format
+msgctxt "notification body for receiving a location"
+msgid "Location"
+msgstr ""
+
+#: src/extractinator.cpp:107
+#, kde-format
+msgctxt "notification body for receiving a venue"
+msgid "Venue: %1"
+msgstr ""
+
+#: src/extractinator.cpp:110
+#, kde-format
+msgctxt ""
+"notification body for receiving a contact, %1 %2 are firstname lastname from "
+"telegram's system"
+msgid "Contact: %1 %2"
+msgstr ""
+
+#: src/extractinator.cpp:113
+#, kde-format
+msgctxt "notification body for receiving a dice"
+msgid "%1"
+msgstr ""
+
+#: src/extractinator.cpp:116
+#, kde-format
+msgctxt "notification body for receiving a game"
+msgid "Game: %1"
+msgstr ""
+
+#: src/extractinator.cpp:119
+#, kde-format
+msgctxt "notification body for receiving a poll"
+msgid "Poll: %1"
+msgstr ""
+
+#: src/extractinator.cpp:122
+#, kde-format
+msgctxt "notification body for receiving an invoice"
+msgid "Invoice: %1"
+msgstr ""
+
+#: src/internationalisedlist.cpp:20
+#, kde-format
+msgctxt ""
+"A list of two items. The items can be used to format any sort of nouns, e.g. "
+"a list of people, places, things."
+msgid "%1 and %2"
+msgstr ""
+
+#: src/internationalisedlist.cpp:28
+#, kde-format
+msgctxt ""
+"The end of a list of 3 or more items. In English, this is '{0}, and {1}'."
+msgid "%1, and %2"
+msgstr ""
+
+#: src/internationalisedlist.cpp:31
+#, kde-format
+msgctxt ""
+"The middle of a list of 4 or more items. In English, this is '{0}, {1}'"
+msgid "%1, %2"
+msgstr ""
+
+#: src/internationalisedlist.cpp:34
+#, kde-format
+msgctxt ""
+"The start of a list of 3 or more items. In English, this is '{0}, {1}'"
+msgid "%1, %2"
+msgstr ""
+
+#: src/notificationmanager.cpp:81
+#, kde-format
+msgctxt "button action"
+msgid "Reply"
+msgstr ""
+
+#: src/notificationmanager.cpp:82
+#, kde-format
+msgctxt "placeholder text"
+msgid "Reply to %1…"
+msgstr ""
+
+#: src/userdata.cpp:53
+#, kde-format
+msgid "Loading…"
+msgstr ""
+
+#: src/userdata.cpp:69
+#, kde-format
+msgid "Online"
+msgstr ""
+
+#: src/userdata.cpp:73
+#, kde-format
+msgid "Online recently"
+msgstr ""
+
+#: src/userdata.cpp:98
+#, kde-format
+msgctxt "%1 is a (translated via ICU) relative time, such as '3 seconds ago'"
+msgid "Last online %1"
+msgstr ""
+
+#: src/userdata.cpp:101
+#, kde-format
+msgid "Unknown Status"
+msgstr ""
